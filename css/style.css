@@ -84,9 +84,7 @@ small{
 .ba-list li:active {
     background: #eb7e7f;
 }
-p{
-	margin: 0;
-    padding: 0;
-    border: 0;
-    font-size: 100%;
+.ba-list [type="checkbox"]:checked + span {
+    text-decoration: line-through;
+    color: #a3a0b5;
 }
