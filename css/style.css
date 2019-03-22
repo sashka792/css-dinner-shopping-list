@@ -22,7 +22,7 @@ body{
     max-width: 800px;
     padding: 40px 20px;
 }
-header, footer{
+.ba-header, .ba-footer{
 	text-align: center;
     background: #4A4F56;
     padding: 20px 0;
